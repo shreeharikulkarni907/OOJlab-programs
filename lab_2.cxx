@@ -46,3 +46,17 @@ int printeven(int a,int b)
 		}
 	}
 }
+
+
+
+************OUTPUT*************
+
+
+Enter three numbers
+6 3 10
+Sum of two numbers is 16.000000
+Average of first two number is 8.000000
+Printing all even numbers between a and b
+Even Numbers 8
+
+[Program finished]
