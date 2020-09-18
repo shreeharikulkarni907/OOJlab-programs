@@ -128,7 +128,7 @@ int calculator(int a,int b)
 }
 
 
-/**†*****OUTPUT***""""""""""""/
+*******OUTPUT********
 
 
 Enter the two numbers respectively
